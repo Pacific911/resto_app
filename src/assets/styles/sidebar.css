@@ -1,0 +1,54 @@
+body {
+background-color: #f1f1f1;
+}
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  background-color: #fff;
+  position: fixed;
+  height: 100%;
+  overflow: hidden;
+}
+.sidebar a {
+  display: block;
+  color: gray;
+  padding: 8px;
+  text-decoration: none;
+  margin-left: 5%;
+  /* margin-top: 5%; */
+}
+
+.active a{
+  background-color: #0000;
+}
+
+.sidebar a:hover{
+  color: #000;
+}
+
+.sidebar-image img{
+  width: 60%;
+  height:auto;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+.button-log{
+  background-color: #e69500;
+  border: none;
+  color: #000;
+  font-size: 16px;
+  margin-top: 30px;
+  width: 40%;
+  height: 40px;
+  margin-left: 15%;
+  border-radius: 3px;
+}
+.log-icon{
+  margin-left: 10px;
+  width:16px;
+  height: 16px;
+}
+.link-icon{
+  margin-right: 8px;
+}

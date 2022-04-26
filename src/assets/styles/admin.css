@@ -1,0 +1,9 @@
+body {
+  background-color: #f1f1f1;
+}
+.content {
+  text-align: center;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

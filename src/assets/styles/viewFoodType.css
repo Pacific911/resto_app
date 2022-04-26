@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(243, 243, 243);
+  margin: 0;
+  padding: 0;
+}
+.food-type-list h1{
+  font-size: 18px;
+  margin-left: 5px;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+.food-type-list{
+  width:800px;
+  height:500px;
+  margin-left:19%;
+  background:none;
+  margin-top: 40px;
+  position: fixed;
+}
+.table{
+  margin-top: 30px;
+  margin-left: 30px;
+  background:none;
+  border-radius: 5px;
+}
+.table th{
+  border: none;
+}
+.type-hover{
+  background-color: rgb(231, 230, 230);
+}
+.edit-icon a{
+  color: hsl(39, 100%, 45%);
+  font-size: 30px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.table{
+  margin-left:5%;
+  width:80%;
+  background-color: grey;
+}
